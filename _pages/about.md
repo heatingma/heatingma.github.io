@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Undergraduate Student @ <a href='https://thinklab.sjtu.edu.cn'>ReThinkLab</a>, <a href='https://en.sjtu.edu.cn'>SJTU</a>.
 
 profile:
   align: right
