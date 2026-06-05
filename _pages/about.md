@@ -23,7 +23,7 @@ I am currently a first-year PHD student with the [School of Artificial Intellige
 ## 📖 Educations
 ---
 - *2025.09 - now*, School of Artificial Intelligence, SJTU (pursuing the PHD's Degree)
-- *2021.09 - 2025.06*, Department of Computer Science and Engineering (***IEEE Honors Class***), SJTU (B.E. Degree obtained)
+- *2021.09 - 2025.06*, School of Computer Science, SJTU (B.E. Degree obtained)
     - Overall: ![gpa](https://img.shields.io/badge/GPA-3.93-blue) ![grade](https://img.shields.io/badge/Grade-90.81-blue) ![rank](https://img.shields.io/badge/Ranking-top_10%25-blue)
     - Courses: ![course-above-a](https://img.shields.io/badge/Above_A_-67%25-orange)  ![course-above-a+](https://img.shields.io/badge/Above_A+-29%25-orange)
 

@@ -16,9 +16,8 @@ We introduce **M²GenCO**, a meta-generative framework that treats problem distr
 
 <!------- ICLR-2026 NExCO ------->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='https://heatingma.github.io/_pages/images/ICLR26_NExCO.png' alt="ml4lp" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='https://heatingma.github.io/_pages/images/ICML26_M2GenCO.png' alt="m2genco" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
-</div> -->
 
 [**NExCO: Native Solution Expansion for Diffusion-based Combinatorial Optimization**](https://openreview.net/forum?id=084SvT55yk)
 
