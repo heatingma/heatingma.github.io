@@ -21,7 +21,7 @@ We introduce **M²GenCO**, a meta-generative framework that treats problem distr
 
 [**NExCO: Native Solution Expansion for Diffusion-based Combinatorial Optimization**](https://openreview.net/forum?id=084SvT55yk)
 
-Yu Wang, Yang Li, **Jiale Ma**, Junchi Yan, Yi Chang, *International Conference on Learning Representations (**ICLR**), 2025.* <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
+Yu Wang, Yang Li, **Jiale Ma**, Junchi Yan, Yi Chang, *International Conference on Learning Representations (**ICLR**), 2026.* <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
 
 We propose **NExCO**, a masked diffusion framework that realizes adaptive solution expansion as a native generative principle for neural combinatorial optimization. Our framework is built on three key components: a CO-specific forward corruption that preserves sparsity and yields semantic partial solutions, a time-agnostic GNN denoiser trained under optimization consistency, and a Native Adaptive Expansion (NAE) inference strategy that progressively selects confident variables under feasibility constraints.
 </div>
