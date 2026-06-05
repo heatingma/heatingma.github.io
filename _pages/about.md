@@ -54,7 +54,7 @@ I am currently a first-year PHD student with the [School of Artificial Intellige
 ## ⚙️ Open Source Projects
 ---
 
-> [**ML4CO-Kit: A Python toolkit for Machine Learning practices for Combinatorial Optimization.**](https://github.com/Thinklab-SJTU/ML4CO-Kit)
+> [**ML4CO-Kit: A Python toolkit for Machine Learning practices for Combinatorial Optimization**](https://github.com/Thinklab-SJTU/ML4CO-Kit)
 >
 > [![PyPi version](https://badgen.net/pypi/v/ml4co-kit/)](https://pypi.org/pypi/ml4co_kit/) [![PyPI pyversions](https://img.shields.io/badge/dynamic/json?color=blue&label=python&query=info.requires_python&url=https%3A%2F%2Fpypi.org%2Fpypi%2Fml4co_kit%2Fjson)](https://pypi.python.org/pypi/ml4co-kit/) [![Downloads](https://static.pepy.tech/badge/ml4co-kit)](https://pepy.tech/project/ml4co-kit) [![Documentation Status](https://readthedocs.org/projects/ml4co_kit/badge/?version=latest)](https://ml4co-kit.readthedocs.io/en/latest/) [![codecov](https://codecov.io/gh/Thinklab-SJTU/ML4CO-Kit/branch/main/graph/badge.svg?token=5GGETAYIFL)](https://codecov.io/gh/Thinklab-SJTU/ML4CO-Kit) [![GitHub stars](https://badgen.net/github/stars/Thinklab-SJTU/ML4CO-Kit?icon=github)](https://github.com/Thinklab-SJTU/ML4CO-Kit/stargazers)
 
@@ -66,7 +66,7 @@ A general-purpose toolkit that provides implementations of common algorithms use
 
 A benchmark that categorizes neural combinatorial optimization (NCO) solvers by solving paradigms, model designs, and learning strategies. It evaluates applicability and generalization of different NCO approaches across a broad range of combinatorial optimization problems to uncover universal insights that can be transferred across various domains of ML4CO.
 
-> [**Pygmtools: A Python Graph Matching Toolkit.**](https://github.com/Thinklab-SJTU/pygmtools)
+> [**Pygmtools: A Python Graph Matching Toolkit**](https://github.com/Thinklab-SJTU/pygmtools)
 >
 > [![PyPi version](https://badgen.net/pypi/v/pygmtools/)](https://pypi.org/pypi/pygmtools/) [![PyPI pyversions](https://img.shields.io/badge/dynamic/json?color=blue&label=python&query=info.requires_python&url=https%3A%2F%2Fpypi.org%2Fpypi%2Fpygmtools%2Fjson)](https://pypi.python.org/pypi/pygmtools/) [![Downloads](https://static.pepy.tech/badge/pygmtools)](https://pepy.tech/project/pygmtools) [![Documentation Status](https://readthedocs.org/projects/pygmtools/badge/?version=latest)](https://pygmtools.readthedocs.io/en/latest/?badge=latest) [![codecov](https://codecov.io/gh/Thinklab-SJTU/pygmtools/branch/main/graph/badge.svg?token=Q68XTY0N0C)](https://codecov.io/gh/Thinklab-SJTU/pygmtools) [![GitHub stars](https://badgen.net/github/stars/Thinklab-SJTU/pygmtools?icon=github)](https://github.com/Thinklab-SJTU/pygmtools/stargazers)
 
