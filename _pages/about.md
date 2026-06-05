@@ -62,7 +62,7 @@ A general-purpose toolkit that provides implementations of common algorithms use
 
 > [**ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs**](https://github.com/Thinklab-SJTU/ML4CO-Bench-101)
 >
-> ![github-stars](https://badgen.net/github/stars/Thinklab-SJTU/ML4CO-Bench-101?style=social) [![HuggingFace Models](https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow)](https://huggingface.co/ML4CO/ML4CO-Bench-101) [![HuggingFace Dataset](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow)](https://huggingface.co/datasets/ML4CO/ML4CO-Bench-101-SL)
+> [![HuggingFace Models](https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow)](https://huggingface.co/ML4CO/ML4CO-Bench-101) [![HuggingFace Dataset](https://img.shields.io/badge/%F0%9F%A4%97-Dataset-yellow)](https://huggingface.co/datasets/ML4CO/ML4CO-Bench-101-SL) ![github-stars](https://badgen.net/github/stars/Thinklab-SJTU/ML4CO-Bench-101?style=social) 
 
 A benchmark that categorizes neural combinatorial optimization (NCO) solvers by solving paradigms, model designs, and learning strategies. It evaluates applicability and generalization of different NCO approaches across a broad range of combinatorial optimization problems to uncover universal insights that can be transferred across various domains of ML4CO.
 
