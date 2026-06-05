@@ -77,7 +77,7 @@ We introduce **COExpander**, an adaptive expansion paradigm that bridges global 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='https://heatingma.github.io/_pages/images/ICLR25_UniCO.png' alt="unico" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP**]
+[**UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP**](https://openreview.net/forum?id=yEwakMNIex)
 
 Wenzheng Pan\*, Hao Xiong\*, **Jiale Ma**, Wentao Zhao, Yang Li, Junchi Yan, *International Conference on Learning Representations (**ICLR**), 2025.* <a href="https://github.com/Thinklab-SJTU/UniCO" target="_blank"> <font color="#E15759"><b>[Code]</b> </font></a>
 
@@ -91,6 +91,7 @@ We propose **UniCO**, a unified neural combinatorial optimization framework that
 <div class='paper-box-text' markdown="1">
 
 [**Unify ML4TSP: Drawing Methodological Principles for TSP and Beyond from Streamlined Design Space of Learning and Search**](https://openreview.net/forum?id=grU1VKEOLi)
+
 Yang Li, **Jiale Ma**, Wenzheng Pan, Runzhong Wang, Haoyu Geng, Nianzu Yang, Junchi Yan, *International Conference on Learning Representations (**ICLR**), 2025.* <a href="https://github.com/Thinklab-SJTU/ML4TSPBench" target="_blank"> <font color="#E15759"><b>[Code]</b> </font></a>
 
 We present **ML4TSPBench**, a modular framework that decomposes learning-based TSP solvers into reusable learning and search components, revealing key design principles for stronger and more principled ML4CO methods.
