@@ -1,6 +1,45 @@
 ## 📝 Publications 
 ---
 
+<!------- NeurIPS-2026 NLD4CO ------->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='https://heatingma.github.io/_pages/images/NIPS26_NLD4CO.png' alt="co_rectifier" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**NLD4CO: Neural Langevin Dynamics for Combinatorial Optimization**](https://openreview.net/forum?id=mshiN8rReo)
+
+**Jiale Ma**,Wenzheng Pan, Binghao Cai, Xihe Zhang, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026*. <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
+
+We propose **NLD4CO**, a neural Langevin dynamics framework that couples data-driven learning with LD via neural warm-start (EG) and consistency-model-guided implicit scores (IG) for efficient combinatorial search.
+</div>
+</div>
+
+<!------- NeurIPS-2026 UECO ------->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='https://heatingma.github.io/_pages/images/NIPS26_UECO.png' alt="ueco" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**UECO: A Unified Encoder with Structure-Aware Attention Mixture via Iterative Edge Evolving for Neural Combinatorial Optimization**](https://openreview.net/forum?id=M2lqt23VO7)
+
+Wenzheng Pan, Shuyi Yan, Nuoyan Chen, Yiyang Qu, **Jiale Ma**, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026*. <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
+
+We propose **UECO**, a unified encoder with structure-aware attention mixture that iteratively evolves edge representations to inject local topology into attention, plug-and-play across diverse NCO paradigms and problems.
+</div>
+</div>
+
+<!------- NeurIPS-2026 CORectifier ------->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='https://heatingma.github.io/_pages/images/NIPS26_CORectifier.png' alt="co_rectifier" height="300"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Rectified Policy Rollouts with Hierarchical Expert Guidance for Neural Combinatorial Optimization**](https://openreview.net/forum?id=bpt10w03zk)
+
+Wenzheng Pan, Nuoyan Chen, Jiaxi Liu, **Jiale Ma**, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026*. <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
+
+We propose **CORectifier**, a hierarchical gated rectification mechanism that probabilistically replaces policy actions with expert segments during RL rollouts, yielding sample-efficient, constraint-aware NCO solvers.
+</div>
+</div>
+
 <!------- ICML-2026 M²GenCO ------->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='https://heatingma.github.io/_pages/images/ICML26_M2GenCO.png' alt="m2genco" height="300"></div></div>
@@ -21,7 +60,7 @@ We introduce **M²GenCO**, a meta-generative framework that treats problem distr
 
 [**NExCO: Native Solution Expansion for Diffusion-based Combinatorial Optimization**](https://openreview.net/forum?id=084SvT55yk)
 
-Yu Wang, Yang Li, **Jiale Ma**, Junchi Yan, Yi Chang, *International Conference on Learning Representations (**ICLR**), 2026.* <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
+Yu Wang, Yang Li, **Jiale Ma**, Junchi Yan, Yi Chang, *International Conference on Learning Representations (**ICLR**), 2026.* <a href="https://github.com/yuuuuwang/NExCO" target="_blank"> <font color="#E15759"><b>[Code]</b> </font></a>
 
 We propose **NExCO**, a masked diffusion framework that realizes adaptive solution expansion as a native generative principle for neural combinatorial optimization. Our framework is built on three key components: a CO-specific forward corruption that preserves sparsity and yields semantic partial solutions, a time-agnostic GNN denoiser trained under optimization consistency, and a Native Adaptive Expansion (NAE) inference strategy that progressively selects confident variables under feasibility constraints.
 </div>
