@@ -3,12 +3,12 @@
 
 <!------- NeurIPS-2026 NLD4CO ------->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='https://heatingma.github.io/_pages/images/NIPS26_NLD4CO.png' alt="co_rectifier" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Spotlight</div><img src='https://heatingma.github.io/_pages/images/NIPS26_NLD4CO.png' alt="co_rectifier" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**NLD4CO: Neural Langevin Dynamics for Combinatorial Optimization**](https://openreview.net/forum?id=mshiN8rReo)
 
-**Jiale Ma**,Wenzheng Pan, Binghao Cai, Xihe Zhang, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026*. <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
+**Jiale Ma**,Wenzheng Pan, Binghao Cai, Xihe Zhang, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026* (**Spotlight**). <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
 
 We propose **NLD4CO**, a neural Langevin dynamics framework that couples data-driven learning with LD via neural warm-start (EG) and consistency-model-guided implicit scores (IG) for efficient combinatorial search.
 </div>
@@ -16,12 +16,12 @@ We propose **NLD4CO**, a neural Langevin dynamics framework that couples data-dr
 
 <!------- NeurIPS-2026 UECO ------->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='https://heatingma.github.io/_pages/images/NIPS26_UECO.png' alt="ueco" height="300"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Oral</div><img src='https://heatingma.github.io/_pages/images/NIPS26_UECO.png' alt="ueco" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**UECO: A Unified Encoder with Structure-Aware Attention Mixture via Iterative Edge Evolving for Neural Combinatorial Optimization**](https://openreview.net/forum?id=M2lqt23VO7)
 
-Wenzheng Pan, Shuyi Yan, Nuoyan Chen, Yiyang Qu, **Jiale Ma**, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026*. <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
+Wenzheng Pan, Shuyi Yan, Nuoyan Chen, Yiyang Qu, **Jiale Ma**, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026* (**Oral**). <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
 
 We propose **UECO**, a unified encoder with structure-aware attention mixture that iteratively evolves edge representations to inject local topology into attention, plug-and-play across diverse NCO paradigms and problems.
 </div>
