@@ -8,7 +8,7 @@
 
 [**NLD4CO: Neural Langevin Dynamics for Combinatorial Optimization**](https://openreview.net/forum?id=mshiN8rReo)
 
-**Jiale Ma**,Wenzheng Pan, Binghao Cai, Xihe Zhang, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026* (**Spotlight**). <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
+**Jiale Ma**, Wenzheng Pan, Binghao Cai, Xihe Zhang, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026* (**Spotlight**). <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
 
 We propose **NLD4CO**, a neural Langevin dynamics framework that couples data-driven learning with LD via neural warm-start (EG) and consistency-model-guided implicit scores (IG) for efficient combinatorial search.
 </div>
