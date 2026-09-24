@@ -22,6 +22,7 @@ I am currently a first-year PHD student with the [School of Artificial Intellige
 
 ## 📖 Educations
 ---
+- *2025.09 - now*, Shanghai Innovation Institute (SII)
 - *2025.09 - now*, School of Artificial Intelligence, SJTU (pursuing the PHD's Degree)
 - *2021.09 - 2025.06*, School of Computer Science, SJTU (B.E. Degree obtained)
     - Overall: ![gpa](https://img.shields.io/badge/GPA-3.93-blue) ![grade](https://img.shields.io/badge/Grade-90.81-blue) ![rank](https://img.shields.io/badge/Ranking-top_10%25-blue)
@@ -37,6 +38,8 @@ I am currently a first-year PHD student with the [School of Artificial Intellige
 
 ## 🔥 News
 ---
+- *2026.09*: 🔍 I served as a **reviewer** for **ICLR 2026**!
+- *2026.09*: 🎉 Three papers were accepted by **NeurIPS 2026**, including one first-author **Spotlight** and one co-authored **Oral**!
 - *2026.05*: 🔍 I served as a **reviewer** for **NeurIPS 2026**!
 - *2026.05*: 🎉 One paper was accepted by **ICML 2026**!
 - *2026.02*: 🔍 I served as a **reviewer** for **ICML 2026**!
