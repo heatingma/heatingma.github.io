@@ -38,7 +38,7 @@ I am currently a first-year PHD student with the [School of Artificial Intellige
 
 ## 🔥 News
 ---
-- *2026.09*: 🔍 I served as a **reviewer** for **ICLR 2026**!
+- *2026.09*: 🔍 I served as a **reviewer** for **ICLR 2027**!
 - *2026.09*: 🎉 Three papers were accepted by **NeurIPS 2026**, including one first-author **Spotlight** and one co-authored **Oral**!
 - *2026.05*: 🔍 I served as a **reviewer** for **NeurIPS 2026**!
 - *2026.05*: 🎉 One paper was accepted by **ICML 2026**!
