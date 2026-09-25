@@ -10,7 +10,7 @@
 
 **Jiale Ma**, Wenzheng Pan, Binghao Cai, Xihe Zhang, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026* (**Spotlight**). <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
 
-We propose **NLD4CO**, a neural Langevin dynamics framework that couples data-driven learning with LD via neural warm-start (EG) and consistency-model-guided implicit scores (IG) for efficient combinatorial search.
+We propose **NLD4CO**, a unified framework that combines Langevin dynamics with data-driven learning for combinatorial optimization. Its explicit-gradient variant provides neural warm starts for energy-based problems, while the implicit-gradient variant uses consistency-model corrections to guide globally coordinated search in general combinatorial problems.
 </div>
 </div>
 
@@ -23,7 +23,7 @@ We propose **NLD4CO**, a neural Langevin dynamics framework that couples data-dr
 
 Wenzheng Pan, Shuyi Yan, Nuoyan Chen, Yiyang Qu, **Jiale Ma**, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026* (**Oral**). <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
 
-We propose **UECO**, a unified encoder with structure-aware attention mixture that iteratively evolves edge representations to inject local topology into attention, plug-and-play across diverse NCO paradigms and problems.
+We propose **UECO**, a unified encoder for neural combinatorial optimization with structure-aware attention mixtures and iterative edge evolving. By progressively combining local topological messages with global attention, UECO serves as a shared backbone across construction, prediction, and expansion paradigms and improves solution quality and generalization across diverse combinatorial problems.
 </div>
 </div>
 
@@ -36,7 +36,7 @@ We propose **UECO**, a unified encoder with structure-aware attention mixture th
 
 Wenzheng Pan, Nuoyan Chen, Jiaxi Liu, **Jiale Ma**, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026*. <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
 
-We propose **CORectifier**, a hierarchical gated rectification mechanism that probabilistically replaces policy actions with expert segments during RL rollouts, yielding sample-efficient, constraint-aware NCO solvers.
+We introduce **CORectifier**, a hierarchical gated rectification mechanism that replaces selected policy actions with high-quality reference segments during reinforcement learning. The resulting rectified policy rollouts inject optimality signals at batch, instance, and sub-instance levels, improving sample efficiency and solution quality while preserving sequential constraint satisfaction.
 </div>
 </div>
 
