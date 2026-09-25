@@ -8,7 +8,7 @@
 
 [**NLD4CO: Neural Langevin Dynamics for Combinatorial Optimization**](https://openreview.net/forum?id=mshiN8rReo)
 
-**Jiale Ma**, Wenzheng Pan, Binghao Cai, Xihe Zhang, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026* (**Spotlight**). <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
+**Jiale Ma**, Wenzheng Pan, Binghao Cai, Xihe Zhang, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026*. **Spotlight (Top 1.3%)**. <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
 
 We propose **NLD4CO**, a unified framework that combines Langevin dynamics with data-driven learning for combinatorial optimization. Its explicit-gradient variant provides neural warm starts for energy-based problems, while the implicit-gradient variant uses consistency-model corrections to guide globally coordinated search in general combinatorial problems.
 </div>
@@ -21,7 +21,7 @@ We propose **NLD4CO**, a unified framework that combines Langevin dynamics with 
 
 [**UECO: A Unified Encoder with Structure-Aware Attention Mixture via Iterative Edge Evolving for Neural Combinatorial Optimization**](https://openreview.net/forum?id=M2lqt23VO7)
 
-Wenzheng Pan, Shuyi Yan, Nuoyan Chen, Yiyang Qu, **Jiale Ma**, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026* (**Oral**). <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
+Wenzheng Pan, Shuyi Yan, Nuoyan Chen, Yiyang Qu, **Jiale Ma**, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026*. **Oral (Top 0.4%)**. <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
 
 We propose **UECO**, a unified encoder for neural combinatorial optimization with structure-aware attention mixtures and iterative edge evolving. By progressively combining local topological messages with global attention, UECO serves as a shared backbone across construction, prediction, and expansion paradigms and improves solution quality and generalization across diverse combinatorial problems.
 </div>
@@ -34,7 +34,7 @@ We propose **UECO**, a unified encoder for neural combinatorial optimization wit
 
 [**Rectified Policy Rollouts with Hierarchical Expert Guidance for Neural Combinatorial Optimization**](https://openreview.net/forum?id=bpt10w03zk)
 
-Wenzheng Pan, Nuoyan Chen, Jiaxi Liu, **Jiale Ma**, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026*. <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
+Wenzheng Pan, Nuoyan Chen, Jiaxi Liu, **Jiale Ma**, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2026*. **Poster (Top 25.7%)**. <a href="" target="_blank"> <font color="#9C755F"><b>[Code]</b> </font></a>
 
 We introduce **CORectifier**, a hierarchical gated rectification mechanism that replaces selected policy actions with high-quality reference segments during reinforcement learning. The resulting rectified policy rollouts inject optimality signals at batch, instance, and sub-instance levels, improving sample efficiency and solution quality while preserving sequential constraint satisfaction.
 </div>
@@ -47,7 +47,7 @@ We introduce **CORectifier**, a hierarchical gated rectification mechanism that 
 
 [**Problem Distributions as Tasks: Repurposing Meta Learning for Generative Combinatorial Optimization towards Multi-task Pretraining and Adaptation**](https://openreview.net/forum?id=OfxgzjqzeA)
 
-Wenzheng Pan, **Jiale Ma**, Nuoyan Chen, Yang Li, Junchi Yan, *International Conference on Machine Learning (**ICML**), 2026*. <a href="https://github.com/Thinklab-SJTU/M2GenCO" target="_blank"> <font color="#E15759"><b>[Code]</b> </font></a>
+Wenzheng Pan, **Jiale Ma**, Nuoyan Chen, Yang Li, Junchi Yan, *International Conference on Machine Learning (**ICML**), 2026*. **Poster (Top 26.6%)**. <a href="https://github.com/Thinklab-SJTU/M2GenCO" target="_blank"> <font color="#E15759"><b>[Code]</b> </font></a>
 
 We introduce **M²GenCO**, a meta-generative framework that treats problem distributions as tasks to enable efficient multi-task pretraining, few-shot adaptation, and robust generalization across graph-based combinatorial optimization problems. 
 </div>
@@ -60,7 +60,7 @@ We introduce **M²GenCO**, a meta-generative framework that treats problem distr
 
 [**NExCO: Native Solution Expansion for Diffusion-based Combinatorial Optimization**](https://openreview.net/forum?id=084SvT55yk)
 
-Yu Wang, Yang Li, **Jiale Ma**, Junchi Yan, Yi Chang, *International Conference on Learning Representations (**ICLR**), 2026.* <a href="https://github.com/yuuuuwang/NExCO" target="_blank"> <font color="#E15759"><b>[Code]</b> </font></a>
+Yu Wang, Yang Li, **Jiale Ma**, Junchi Yan, Yi Chang, *International Conference on Learning Representations (**ICLR**), 2026*. **Poster (Top 28.0%)**. <a href="https://github.com/yuuuuwang/NExCO" target="_blank"> <font color="#E15759"><b>[Code]</b> </font></a>
 
 We propose **NExCO**, a masked diffusion framework that realizes adaptive solution expansion as a native generative principle for neural combinatorial optimization. Our framework is built on three key components: a CO-specific forward corruption that preserves sparsity and yields semantic partial solutions, a time-agnostic GNN denoiser trained under optimization consistency, and a Native Adaptive Expansion (NAE) inference strategy that progressively selects confident variables under feasibility constraints.
 </div>
@@ -73,7 +73,7 @@ We propose **NExCO**, a masked diffusion framework that realizes adaptive soluti
 
 [**ML4CO-Bench-101: Benchmark Machine Learning for Classic Combinatorial Problems on Graphs**](https://openreview.net/forum?id=ye4ntB1Kzi)
 
-**Jiale Ma**, Wenzheng Pan, Yang Li, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2025*. <a href="https://github.com/Thinklab-SJTU/ML4CO-Bench-101" target="_blank"> <font color="#E15759"><b>[Code]</b> </font></a>
+**Jiale Ma**, Wenzheng Pan, Yang Li, Junchi Yan, *Advances in Neural Information Processing Systems (**NeurIPS**), 2025*. **Poster (Top 24.9%)**. <a href="https://github.com/Thinklab-SJTU/ML4CO-Bench-101" target="_blank"> <font color="#E15759"><b>[Code]</b> </font></a>
 
 We establishe **ML4CO-Bench-101**, a standardized benchmark and modular evaluation framework that systematically categorizes, reproduces, and compares neural solvers across seven mainstream graph-based combinatorial problems.
 </div>
@@ -86,7 +86,7 @@ We establishe **ML4CO-Bench-101**, a standardized benchmark and modular evaluati
 
 [**Generative Modeling Reinvents Supervised Learning: Label Repurposing with Predictive Consistency Learning**](https://openreview.net/forum?id=FO2fu3daSL)
 
-Yang Li, **Jiale Ma**, Yebin Yang, Qitian Wu, Hongyuan Zha, Junchi Yan, *International Conference on Machine Learning (**ICML**), 2025*. <a href="https://github.com/Thinklab-SJTU/predictive-consistency-learning" target="_blank"> <font color="#E15759"><b>[Code]</b> </font></a>
+Yang Li, **Jiale Ma**, Yebin Yang, Qitian Wu, Hongyuan Zha, Junchi Yan, *International Conference on Machine Learning (**ICML**), 2025*. **Poster (Top 26.9%)**. <a href="https://github.com/Thinklab-SJTU/predictive-consistency-learning" target="_blank"> <font color="#E15759"><b>[Code]</b> </font></a>
 
 We propose a novel predictive consistency learning framework beyond previous methods with direct prediction, aiming to explore the full potential of label information for supervision during the learning process.
 
@@ -100,7 +100,7 @@ We propose a novel predictive consistency learning framework beyond previous met
 
 [**COExpander: Adaptive Solution Expansion for Combinatorial Optimization**](https://openreview.net/forum?id=KMaBXMWsBM)
 
-**Jiale Ma\***, Wenzheng Pan\*, Yang Li, Junchi Yan, *International Conference on Machine Learning (**ICML**), 2025*. <a href="https://github.com/Thinklab-SJTU/COExpander" target="_blank"> <font color="#E15759"><b>[Code]</b> </font></a>
+**Jiale Ma\***, Wenzheng Pan\*, Yang Li, Junchi Yan, *International Conference on Machine Learning (**ICML**), 2025*. **Poster (Top 26.9%)**. <a href="https://github.com/Thinklab-SJTU/COExpander" target="_blank"> <font color="#E15759"><b>[Code]</b> </font></a>
 
 We introduce **COExpander**, an adaptive expansion paradigm that bridges global prediction and local construction by progressively determining decision variables with dynamically controlled step sizes for scalable combinatorial optimization.
 </div>
@@ -113,7 +113,7 @@ We introduce **COExpander**, an adaptive expansion paradigm that bridges global 
 
 [**UniCO: On Unified Combinatorial Optimization via Problem Reduction to Matrix-Encoded General TSP**](https://openreview.net/forum?id=yEwakMNIex)
 
-Wenzheng Pan\*, Hao Xiong\*, **Jiale Ma**, Wentao Zhao, Yang Li, Junchi Yan, *International Conference on Learning Representations (**ICLR**), 2025.* <a href="https://github.com/Thinklab-SJTU/UniCO" target="_blank"> <font color="#E15759"><b>[Code]</b> </font></a>
+Wenzheng Pan\*, Hao Xiong\*, **Jiale Ma**, Wentao Zhao, Yang Li, Junchi Yan, *International Conference on Learning Representations (**ICLR**), 2025*. **Poster (Top 32.1%)**. <a href="https://github.com/Thinklab-SJTU/UniCO" target="_blank"> <font color="#E15759"><b>[Code]</b> </font></a>
 
 We propose **UniCO**, a unified neural combinatorial optimization framework that reduces diverse COPs into matrix-encoded general TSP and solves them with tailored matrix-based RL and diffusion solvers: 1) MatPOENet, an RL-based sequential model with pseudo one-hot embedding (POE) scheme and 2) MatDIFFNet, a Diffusion-based generative model with the mix-noised reference mapping scheme.
 </div>
@@ -126,7 +126,7 @@ We propose **UniCO**, a unified neural combinatorial optimization framework that
 
 [**Unify ML4TSP: Drawing Methodological Principles for TSP and Beyond from Streamlined Design Space of Learning and Search**](https://openreview.net/forum?id=grU1VKEOLi)
 
-Yang Li, **Jiale Ma**, Wenzheng Pan, Runzhong Wang, Haoyu Geng, Nianzu Yang, Junchi Yan, *International Conference on Learning Representations (**ICLR**), 2025.* <a href="https://github.com/Thinklab-SJTU/ML4TSPBench" target="_blank"> <font color="#E15759"><b>[Code]</b> </font></a>
+Yang Li, **Jiale Ma**, Wenzheng Pan, Runzhong Wang, Haoyu Geng, Nianzu Yang, Junchi Yan, *International Conference on Learning Representations (**ICLR**), 2025*. **Poster (Top 32.1%)**. <a href="https://github.com/Thinklab-SJTU/ML4TSPBench" target="_blank"> <font color="#E15759"><b>[Code]</b> </font></a>
 
 We present **ML4TSPBench**, a modular framework that decomposes learning-based TSP solvers into reusable learning and search components, revealing key design principles for stronger and more principled ML4CO methods.
 </div>
